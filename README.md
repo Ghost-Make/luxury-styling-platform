@@ -1,6 +1,8 @@
-# ✨ Premium Portfolio Landing Page
+# ✨ Luxury Styling Platform
 
-A stunning, production-ready portfolio website built with **Next.js 15**, **React 19**, **Tailwind CSS**, **Framer Motion**, and **Supabase**.
+Modern fashion styling platform combining luxury design, personalized style analysis, and premium consultation experiences.
+
+Built with **Next.js 15**, **React 19**, **Tailwind CSS**, **Framer Motion**, and **Supabase**.
 
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react)
@@ -57,8 +59,8 @@ A stunning, production-ready portfolio website built with **Next.js 15**, **Reac
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/yourusername/portfolio-landing-page.git
-cd portfolio-landing-page
+git clone https://github.com/Ghost-Make/luxury-styling-platform.git
+cd luxury-styling-platform
 npm install
 ```
 
@@ -154,7 +156,8 @@ In your Vercel project dashboard → **Settings → Environment Variables**, add
 │   └── index.ts                # TypeScript interfaces
 ├── .env.local.example          # Env template
 ├── supabase-schema.sql         # DB schema
-└── tailwind.config.ts          # Tailwind config
+├── tailwind.config.ts          # Tailwind config
+└── tsconfig.json               # TypeScript config
 ```
 
 ---
@@ -182,3 +185,7 @@ MIT License. Free to use for personal and commercial projects.
 ---
 
 Built with ♥ using Next.js & Framer Motion
+=======
+# luxury-styling-platform
+Modern fashion styling platform combining luxury design, personalized style analysis, and premium consultation experiences.
+>>>>>>> 59a46068cd2a629059cc9fa8274e0f5fab18cd60
