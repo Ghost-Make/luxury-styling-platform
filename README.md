@@ -1,4 +1,4 @@
-# ✨ Luxury Styling Platform
+#  Luxury Styling Platform
 
 Modern fashion styling platform combining luxury design, personalized style analysis, and premium consultation experiences.
 
@@ -12,7 +12,7 @@ Built with **Next.js 15**, **React 19**, **Tailwind CSS**, **Framer Motion**, an
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Hero Section** — animated typing text, stat counters, gradient mesh background
 - **About Section** — experience timeline, animated skill progress bars, tech stack marquee
@@ -29,7 +29,7 @@ Built with **Next.js 15**, **React 19**, **Tailwind CSS**, **Framer Motion**, an
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -47,7 +47,7 @@ Built with **Next.js 15**, **React 19**, **Tailwind CSS**, **Framer Motion**, an
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -127,7 +127,7 @@ In your Vercel project dashboard → **Settings → Environment Variables**, add
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── app/
@@ -162,7 +162,7 @@ In your Vercel project dashboard → **Settings → Environment Variables**, add
 
 ---
 
-## 🎨 Customization
+## Customization
 
 ### Changing Colors
 
@@ -178,7 +178,7 @@ Fonts are loaded via Google Fonts CDN in `app/layout.tsx`. Swap the font URLs an
 
 ---
 
-## 📄 License
+## License
 
 MIT License. Free to use for personal and commercial projects.
 
